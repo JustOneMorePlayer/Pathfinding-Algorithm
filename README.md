@@ -12,7 +12,7 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
 
  ## Pathfinding
 
-
+kwdmlawkmdlkamwlkdmlakwmlkdmamwkd
 
 <p align="center">
   <img src="[https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line0.gif">
