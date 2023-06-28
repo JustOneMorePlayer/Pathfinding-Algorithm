@@ -7,6 +7,6 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif">
+  <img src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif">
 </p>
 ![](https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif)
