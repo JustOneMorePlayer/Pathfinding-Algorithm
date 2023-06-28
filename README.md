@@ -15,5 +15,5 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
 kwdmlawkmdlkamwlkdmlakwmlkdmamwkd
 
 <p align="center">
-  <img src="[https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line0.gif">
+  <img src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line0.gif">
 </p>
