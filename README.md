@@ -10,6 +10,7 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
   <img src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif">
 </p>
 
+ ## Pathfinding
 
 
 
