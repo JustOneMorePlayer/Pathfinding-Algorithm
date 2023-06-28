@@ -12,7 +12,9 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
 
  ## Pathfinding
 
-kwdmlawkmdlkamwlkdmlakwmlkdmamwkd
+For the pathfinding algorithm I implemented the A* algorithm where the following successor minimazes the function $f(x) = g(x) + h(x)$ where $g(x)$ is the minimal longitud from the cell $x$ to the starting cell and $f(x)$ is the euclidean distance between the cell $x$ and the goal cell.
+
+To this function we can add a bias such that it prioritizes minimazing the actual longitud of the path from the starting cell to the cell $x$ or the distance between $x$ and the goal cell considering $f(x) = \alpha * g(x) + \beta * h(x)$. The gifs line0, ..., line9 show the trace of the algorithm for different values of $\alpha$ and $\beta$.
 
 <p align="center">
   <img src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line0.gif">
