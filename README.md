@@ -9,4 +9,10 @@ To create the maze I used the Willson's algorithm based on the [wikipedia page](
 <p align="center">
   <img src="https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif">
 </p>
-![](https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line.gif)
+
+
+
+
+<p align="center">
+  <img src="[https://github.com/JustOneMorePlayer/Pathfinding-Algorithm/blob/main/READMEImages/line0.gif">
+</p>
